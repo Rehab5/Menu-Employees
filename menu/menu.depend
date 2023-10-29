@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1697459321 source:f:\iti\1-c lang\day6-tasks\menu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1697397005 source:f:\iti\1-c lang\day5-tasks\structemps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
